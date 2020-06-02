@@ -1,4 +1,4 @@
-current_tiime = Time.now
+current_time = Time.now
 
 
 # Write your solution here
